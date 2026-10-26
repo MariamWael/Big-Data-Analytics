@@ -1,4 +1,4 @@
-# Mariam Wael Haasan Mabrouk 231005860
+# Mariam Wael Hassan Mabrouk 231005860
 
 my MapReduce-like engine written in Python It counts words in a folder of text files. 
 
